@@ -1,5 +1,6 @@
 # Diwali-Sales-Analysis-EDA-
-I developed a  project that explores sales trends and customer behavior during the Diwali season. It focuses on cleaning the data, analyzing it, and visualizing patterns to uncover useful insights. The project uses Python tools like Pandas, Matplotlib, and Seaborn to help understand sales trends and identify key customer groups.
+## Project Objective
+I developed a  project that explores sales trends,Improve customer experience, Increasing revenue, Analyse other areas who sale is less than other, Trend analysis,Understanding sales trends during Diwali and customer behavior during the Diwali season  by analysing sales data.It focuses on cleaning the data, analyzing it, and visualizing patterns to uncover useful insights. The project uses Python tools like Pandas, Matplotlib, and Seaborn to help understand sales trends and identify key customer groups.
 
 ## Dataset used
 - <a href="https://github.com/Simransharma-111/Diwali-Sales-Analysis-EDA-/blob/main/Diwali%20Sales%20Data.csv">Dataset</a>
