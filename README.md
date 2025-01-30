@@ -11,3 +11,10 @@ I developed a  project that explores sales trends,Improve customer experience, I
 - Analyse which working area buy most of the products?
 - Analyse which product category is purchased the most?
 - Analyse which age group is purchased the most?
+
+## Process
+- Imported and explored the Diwali sales dataset for analysis. 
+- Removed irrelevant columns and handled missing values to ensure data accuracy.
+- Performed EDA to uncover sales patterns and customer behavior trends. 
+- Created insightful charts and graphs using Matplotlib and Seaborn.
+- Identified key sales drivers and provided actionable business insights.
