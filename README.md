@@ -20,4 +20,12 @@ I developed a  project that explores sales trends,Improve customer experience, I
 - Identified key sales drivers and provided actionable business insights.
 
 ## project Insight
-- Married women age group 26-35 yrs from UP,  Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category*
+- The majority of buyers are females, and their purchasing power is higher than males.
+- The highest number of buyers fall in the 26-35 years age group.
+- Top contributing states in sales: Uttar Pradesh, Maharashtra, and Karnataka.
+- Most buyers are married women with strong purchasing power.
+- Top professions of buyers: IT, Healthcare, and Aviation sectors.
+- Best-selling product categories: Food, Clothing, and Electronics.
+
+## Final conclusion
+The primary target audience consists of married women (aged 26-35) from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, or Aviation sectors. They predominantly purchase Food, Clothing, and Electronics products.
