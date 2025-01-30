@@ -19,6 +19,9 @@ I developed a  project that explores sales trends,Improve customer experience, I
 - Created insightful charts and graphs using Matplotlib and Seaborn.
 - Identified key sales drivers and provided actionable business insights.
 
+## Project Code
+<a href = "https://github.com/Simransharma-111/Diwali-Sales-Analysis-EDA-/blob/main/Diwali_Sales_Analysis.ipynb"> Data Analysis ipynb  </a>
+
 ## project Insight
 - The majority of buyers are females, and their purchasing power is higher than males.
 - The highest number of buyers fall in the 26-35 years age group.
